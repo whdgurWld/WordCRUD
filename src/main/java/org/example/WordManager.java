@@ -11,7 +11,6 @@ public class WordManager {
         wordCRUD = new WordCRUD(s);
     }
 
-
     public void start() {
         while(true) {
             int menu = selectMenu();
