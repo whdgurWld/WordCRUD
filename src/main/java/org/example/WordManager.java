@@ -65,5 +65,4 @@ public class WordManager {
                 => 원하는 메뉴는?\s""");
         return s.nextInt();
     }
-
 }
