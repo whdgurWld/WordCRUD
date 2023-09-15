@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9470e2-f481-4c29-90c3-aa6e01c7e93d" name="Changes" comment="Modification of all files.">
+    <list default="true" id="1f9470e2-f481-4c29-90c3-aa6e01c7e93d" name="Changes" comment="Modify WordManager.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Jong Hyuk Park/Desktop/WordCRUD/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jong Hyuk Park/Desktop/실프/WordCRUD",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Jong Hyuk Park/Desktop/WordCRUD/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +63,7 @@
       <workItem from="1694157155542" duration="612000" />
       <workItem from="1694504313353" duration="934000" />
       <workItem from="1694618674479" duration="2142000" />
+      <workItem from="1694761631499" duration="1389000" />
     </task>
     <task id="LOCAL-00001" summary="Create WordCRUD Project">
       <option name="closed" value="true" />
@@ -78,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693904924048</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modification of all files.">
+      <option name="closed" value="true" />
+      <created>1694761676140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694761676140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modify WordManager.java">
+      <option name="closed" value="true" />
+      <created>1694761735024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694761735024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,8 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create WordCRUD Project" />
-    <MESSAGE value="Modify WordManager.java" />
     <MESSAGE value="Modification of all files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification of all files." />
+    <MESSAGE value="Modify WordManager.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify WordManager.java" />
   </component>
 </project>
