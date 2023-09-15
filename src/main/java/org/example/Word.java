@@ -26,7 +26,13 @@ public class Word {
                 + "  " + meaning;
     }
 
-    public int getId() {return id;}
+    public String toFileString() {
+        return this.level + "|" + this.word + "|" + this.meaning;
+    }
+
+    public int getId() {
+        return id;
+    }
     public void setId(int id) {
         this.id = id;
     }
@@ -51,4 +57,5 @@ public class Word {
     public void setMeaning(String meaning) {
         this.meaning = meaning;
     }
+
 }
