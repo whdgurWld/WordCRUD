@@ -49,7 +49,7 @@ public class WordCRUD implements ICRUD{
         System.out.println("-----------------------");
         for(int i = 0; i < list.size(); i++){
             String word = list.get(i).getWord();
-            if(!word.startsWith(keyword)) continue;
+            if(!word.contains(keyword)) continue;
 
             System.out.print((j + 1) + " ");
             System.out.println(list.get(i).toString());
